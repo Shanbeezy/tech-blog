@@ -1,19 +1,19 @@
 [
     {
       "title": "ProgrammableWeb",
-      "body": "Founded by John Musser in 2005, the ProgrammableWeb platform currently acts as the largest API directory in the world. And, its blog doesn’t disappoint either posting about one or two dev blog articles daily about all things related to APIs. Notably, the website provides us with free tips giving an introduction to APIs, and also links to an API University providing free API-related courses."
+      "body": "Founded by John Musser in 2005, this platform currently acts as the largest API directory in the world.d It posts about one or two dev blog articles daily about all things related to APIs."
     },
     {
       "title": "The Daily WTF",
-      "body": "Starting with the almost taboo website name, The Daily WTF is a pretty out-of-the-box dev blog that focuses on advising developers on what not to do. The writers post instances where they encountered inexcusably bad code in their personal day-to-day lives, and how those negatively affected their programs and projects. The Daily WTF blog keeps to the schedule and posts its content daily (except for the weekends) inside a simple but catchy interface."
+      "body": "This dev blog focuses on advising developers on what not to do. The writers post instances where they encountered inexcusably bad code in their personal day-to-day lives, and how those negatively affected their programs and projects."
     },
     {
       "title": "Honeypot",
-      "body": "Honeypot is another corporate dev blog that aims at advising developers on their career development. Supplying loads of blog content under topics such as “career” and “leadership”, and tags like “career development”, “career search”, “work life balance”, Honeypot provides a great initiative for developers to receive career counseling no one probably gave them in person. They publish about 5 blog posts per month, and in addition, Honeypot also puts forth a nice collection of videos and podcasts."
+      "body": "This corporate dev blog aims at advising developers on their career development. They provide a great initiative for developers to receive career counseling no one probably gave them in person."
     },
     {
         "title": "CodeIT",
-        "body": "Have a look at this dev blog to get some awareness, opinions, and to explore use cases in the field of mobile & web development. Apart from genuinely useful tips & tricks, the CodeIT blog features their data analytics, technology reviews, and news updates on mobile and web development-related matters. You could expect a blog or two every week from CodeIT, but having said that, don’t get surprised on the occasional “no posts” week!"
+        "body": "Look at this dev blog to get some awareness, opinions, and to explore use cases in the field of mobile & web development."
     }
   ]
   
