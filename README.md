@@ -36,7 +36,7 @@ npm i
 
 ## Authors and Acknowledgement
 
-The blog posts data that I found interesting and used came from https://lokalise.com/blog/top-developer-and-software-engineering-blogs-to-read/. They have multiple blog sites that gave helpful information on all things coding related. If any of the blog sites sound interesting to you, you should check them out! 
+The blog posts data that I found interesting and used, came from https://lokalise.com/blog/top-developer-and-software-engineering-blogs-to-read/. They have multiple blog sites that gave helpful information on all things coding related. If any of the blog sites sound interesting to you, you should check them out! 
 
 ## Questions
 
